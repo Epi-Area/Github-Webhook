@@ -1,0 +1,16 @@
+{
+  "name": "my_small_webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Perry Chouteau",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "@octokit/webhooks": "^10.7.0"
+  }
+}
